@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd1e4e9b2e38bdb4a81380dfa176c2e0, type: 3}
+  m_Name: Lightmaps data
+  m_EditorClassIdentifier: 
+  lightmaps:
+  - m_Dir: {fileID: 2800000, guid: ed7cc5f7b3904684098fe565edca3cd1, type: 3}
+    m_Light: {fileID: 2800000, guid: 77edaaf492fcbf04989911d9012729b4, type: 3}
+    m_ShadowMask: {fileID: 0}
+  - m_Dir: {fileID: 2800000, guid: 82cf44a994bc32a42b2a56d507883910, type: 3}
+    m_Light: {fileID: 2800000, guid: 1c3b1f57478215d4d94659aa373c5462, type: 3}
+    m_ShadowMask: {fileID: 0}
+  - m_Dir: {fileID: 2800000, guid: 363e5c5b883969944b6a10709ff59bb1, type: 3}
+    m_Light: {fileID: 2800000, guid: 2502a60bb1a00ca449f17d8a0a7185f6, type: 3}
+    m_ShadowMask: {fileID: 0}
+  IDLightmapToLoad: 1
